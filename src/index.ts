@@ -1,3 +1,8 @@
+/* Ejercicio – Mayor de Tres
+• Desarrolle un algoritmo que dados tres
+números determine cuál es el mayor de los
+tres */
+
 let numeroUno: number = 57;
 let numeroDos: number = 54;
 let numeroTres: number = 52;
